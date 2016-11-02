@@ -3,6 +3,8 @@
 from __future__ import absolute_import
 from __future__ import unicode_literals
 from collections import defaultdict
+import numpy
+import pandas
 
 def jaccard(e1, e2):
 	sete1 = set(e1)
