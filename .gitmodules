@@ -1,0 +1,3 @@
+[submodule "SotaSample"]
+	path = SotaSample
+	url = https://github.com/vstoneofficial/SotaSample.git
